@@ -1,4 +1,4 @@
-## Hi there 👋
+## Curriculo
 
 <!--
 **kaliz7/kaliz7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
